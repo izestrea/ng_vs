@@ -9,7 +9,9 @@ var app = angular.module('app',[]);
 // }
 
 app.controller('MainController', function($scope){
-	$scope.ob = {name: "mike", age: 34, title: "Mr."}
+	// $scope.classVar = true
+	// $scope.classVar = "orange"
+	// $scope.ob = {name: "mike", age: 34, title: "Mr."}
 	// $scope.array = [1, 2, 3, 4, 5, 5, 7, 8, 9]
 	// $scope.users = [{name: "john", age: 32}, {name: "andy", age: 28}, {name: "sam", age: 23}, {name: "sam", age: 23}]
 	// $scope.val = "test456"
